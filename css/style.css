@@ -1,0 +1,53 @@
+h1 {color: black; text-align: center; font: sans-serif; font-size: xx-large;}
+
+body {   
+/*  background-image: url('../img/3.gif');*/
+  background-color: #DCACE7; 
+  font-family: 'Open Sans', sans-serif;
+
+}
+header {
+   background: url('../img/2.jpg') no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 96vh;
+}
+
+.margin-title {
+  margin-top: 50%;
+}
+.green {   background-color: green; } /*.xxx name of object that needs to be modify*/
+
+.red {   background-color: red;}
+
+.purple {   background-color: purple;}
+
+/*new information for example*/
+.navbar {background-color: #C8D8FE;}
+.margin-top { margin-top: 50px; }
+.font-title {
+  font-family: 'Dancing Script', cursive;;
+ /* font-size: 50px;*/
+  font-weight: 400;
+  color: blue;
+}
+.font-title2 {
+  font-family: 'Dancing Script', cursive;;
+  font-size: 100px;
+  color: black;
+}
+
+.blue-html {
+  width: 25%;
+  background-color: blue;
+}
+.red-html {
+  width: 45%;
+  background-color: red;
+}
+.green-html {
+  width: 55%;
+  background-color: green;
+}
